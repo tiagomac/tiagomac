@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JAVA
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Quarkus & React
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Java 🔝
+- ⚡ Fun fact: I :heart: :dog:s
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiagomacdev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt='analytics' src='https://profile-counter.glitch.me/tiagomac/count.svg' width='0px'>
