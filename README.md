@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Quarkus & React
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with my Deutsch
 - 💬 Ask me about Java 🔝
 - ⚡ Fun fact: I :heart: :dog:s
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiagomacdev/)
